@@ -1,3 +1,3 @@
-## project_aplikasi_buku
+## project aplikasi buku
 
 Ini adalah project aplikasi buku!
